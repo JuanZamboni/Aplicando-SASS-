@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/issues</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/pulls</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/actions</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/projects?type=beta</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/security</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/commit/f69b5759a0e0045576ad6f08aae882d5444a1fed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/blob/master/index.html</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/releases</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/compare</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/projects</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/security/policy</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/security/advisories</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/commit/6453eaa82de68cd89f6eb12b9e3901e8d5ea93aa</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/blob/f69b5759a0e0045576ad6f08aae882d5444a1fed/index.html</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/find/master</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels?sort=name-asc</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels?sort=name-desc</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels?sort=count-desc</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels?sort=count-asc</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/bug</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/documentation</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/duplicate</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/enhancement</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/good%20first%20issue</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/help%20wanted</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/invalid</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/question</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/labels/wontfix</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/security/advisories?state=published</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/commit/b7e0eedb4f891e61f3f17ad38c2866da2752ea55</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/find/f69b5759a0e0045576ad6f08aae882d5444a1fed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/commit/b1ebaf741c68e9b68dbabdfc3d2f29bb6aedcbe7</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/JuanZamboni/Aplicando-SASS-/commit/716e8ef16358e824e7e725699539c6be7fdd8fbb</loc>
+  <lastmod>2022-05-12T00:12:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>
