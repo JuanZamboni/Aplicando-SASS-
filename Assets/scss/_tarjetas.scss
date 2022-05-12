@@ -1,7 +1,7 @@
  /*--tarjetas--*/
     
  .container{
-    display: flex;
+    @extend .card-cont;
     align-items: center;
     justify-content: center;
     text-align: center;
