@@ -21,6 +21,7 @@
           justify-content: center;
   text-align: center;
   margin-top: 20px;
+  margin-left: 10%;
 }
 
 .card {
@@ -50,8 +51,10 @@
   width: 100%;
   max-width: 1200px;
   margin: auto;
+  display: -ms-grid;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
   grid-gap: 50px;
   padding: 45px 0px;
 }
@@ -110,11 +113,181 @@
   font-size: 15px;
 }
 
+@media (max-width: 800px) {
+  .footer {
+    width: 100%;
+    background-color: #AC50E1;
+  }
+  .footer .divi1 {
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 45px 0px;
+  }
+  .footer .divi1 .box figure {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .footer .divi1 .box h2 {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 20px;
+  }
+  .footer .divi1 .box p {
+    color: #efefef;
+    margin-bottom: 10px;
+  }
+  .footer .divi1 .box .redes a {
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: white;
+    margin-right: 10px;
+    background-color: #a93be9;
+    text-align: center;
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+  }
+  .footer .divi1 .box .redes a:hover {
+    color: #9b9595;
+  }
+  .footer .divi2 {
+    background-color: #a93be9;
+    padding: 15px 10px;
+    text-align: center;
+    color: white;
+  }
+  .footer .divi2 small {
+    font-size: 15px;
+  }
+}
+
 /*--media--*/
 @media screen and (max-width: 800px) {
   .card-cont, .container {
     display: inline-block !important;
     width: 80%;
   }
+}
+
+.form-cont {
+  padding-bottom: 70px;
+}
+
+.container-form {
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[2];
+      grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+  margin-top: 90px;
+}
+
+.container-form h2 {
+  margin-bottom: 15px;
+  font-size: 35px;
+}
+
+.container-form p {
+  font-size: 17px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.container-form a {
+  font-size: 17px;
+  display: inline-block;
+  text-decoration: none;
+  width: 100%;
+  margin-bottom: 15px;
+  color: black;
+  font-weight: 700;
+}
+
+.container-form a i {
+  color: #AC50E1;
+  margin-right: 10px;
+}
+
+.container-form form .formulario, textarea {
+  width: 100%;
+  padding: 15px 10px;
+  font-size: 15px;
+  border: 1px solid;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  outline: 0px;
+}
+
+.container-form form textarea {
+  max-width: 530px;
+  min-width: 530px;
+  min-height: 140px;
+  max-height: 150px;
+}
+
+.container-form .btn-env {
+  padding: 15px;
+  font-size: 16px;
+  border: none;
+  outline: 0px;
+  background-color: #AC50E1;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  -webkit-transition: all 300ms ease;
+  transition: all 300ms ease;
+}
+
+.container-form .btn-env:hover {
+  background-color: #a93be9;
+}
+
+.product img {
+  width: 150px;
+}
+
+.product h3 {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.tarje {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 4px;
+  background-color: white;
+  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+          box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
 }
 /*# sourceMappingURL=style.css.map */
