@@ -274,7 +274,8 @@
       -ms-flex-pack: center;
           justify-content: center;
   text-align: center;
-  margin-top: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   margin-left: 5px;
   margin-right: 5px;
   border-radius: 4px;
@@ -322,5 +323,13 @@ footer {
   margin-left: 15%;
   background-color: #AC50E1;
   border: 1px solid #AC50E1;
+}
+
+@media (max-width: 900px) {
+  .formularios {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 5px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
