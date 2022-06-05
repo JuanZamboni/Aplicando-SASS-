@@ -62,3 +62,15 @@
 .container-form .btn-env:hover{
    background-color: #a93be9; 
 }
+@media(max-width:800px){
+    .container-form{
+    display: inline-block !important;
+   padding: 10px;
+    }
+    .container-form form textarea{
+        max-width: 370px;
+        min-width: 370px;
+        min-height: 140px;
+        max-height: 140px;
+    }
+}
