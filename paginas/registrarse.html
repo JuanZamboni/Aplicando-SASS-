@@ -8,7 +8,7 @@
     <meta name="description" content="Este es un sitio web de venta de tecnologia">
     <meta  name="keywords" content="Tecnologia, pcgamer, monitor, graficas, ram, gabinete, procesadores, perifericos, sillas gamer, placas madre">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nosotros</title>
+    <title>Registrarse</title>
 
     <!--bootstrap-->
 
@@ -18,16 +18,17 @@
 
     <link rel="stylesheet" href="../Assets/css/style.css">
 
-   
+    
+
     <!--fontawesome-->
 
     <script src="https://kit.fontawesome.com/7531ae74b9.js" crossorigin="anonymous"></script>
 
 </head>
 
- <!--menu-->
+<!--menu-->
 
-<body>
+<body class="body-formulario">
 
     <header>
 
@@ -71,7 +72,7 @@
 
                       <li><a class="dropdown-item" href="./productos.html">Todos los productos</a></li>
 
-                      <li><a class="dropdown-item" href="./productos.html">Filtrar</a></li>
+                      <li><a class="dropdown-item" href="">Filtrar</a></li>
 
                       <li><hr class="dropdown-divider"></li>
 
@@ -114,23 +115,43 @@
           </nav>
 
     </header>
+
+     <!--Formulario-->
     
-    <section class="nosotros">
-      <h1>
-        SOBRE NOSOTROS
-      </h1>
+      <form class="formularios">
+        
+          <h1>REGISTER</h1>
+          <div>
+            <label for="exampleInputEmail1" class="form-label">Nombre y apellido</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+          </div>
+        <div>
+          <label for="exampleInputEmail1" class="form-label">Correo Electronico</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        
+        </div>
 
-      <p class="pnosotros">SOMOS UNA EMPRESA TECNOLOGICA CON 10 AÑOS DE EXPERIENCIA EN EL NEGOCIO DE LA TECNOLOGIA. NUESTRA EMPRESA SE CREA EN EL AÑO 2012 ORIENTADA EN LA VENTA DE ACCESORIOS PARA CELULARES, NOTEBOOKS. ETC. HACE 7 AÑOS QUISIMOS EXPANDIRNOS Y COMENZAMOS CON LA VENTA DE COMPONENTES PARA PC Y MUCHAS COSAS MÁS.</p>
+        <div>
+          <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+          <input type="password" class="form-control" id="exampleInputPassword1">
+        </div>
+
+        <div>
+            <label for="exampleInputPassword1" class="form-label">Repetir Contraseña</label>
+            <input type="password" class="form-control" id="exampleInputPassword1">
+          </div>
+
+        <div class="form-check">
+          <input type="checkbox" class="form-check-input" id="exampleCheck1">
+          <label class="form-check-label" for="exampleCheck1">Recuerdame</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Ingresar</button>
+
+  
+      </form>
       
-      <h2>UBICACIÓN</h2>
-      <P  class="pnosotros">NUESTRA UNICA SEDE SE ENCUENTRA EN MAR DEL PLATA EN AV.CALLE 1234</P>
-
-      <h2>CONTACTO</h2>
-      <p  class="pnosotros">SI TE GUSTARIA PONERTE EN CONTACTO CON NOSOTROS PODES DEJARNOS TU INFORMACIÓN EN EL APARTADO DE CONTACTO O LLAMARNOS AL (0223) 123-456789</p>
-
-      
-    </section>
- 
+   
 
     <!--pie de pagina-->
 

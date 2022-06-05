@@ -1,0 +1,24 @@
+.nosotros{
+    margin: 137px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.pnosotros{
+    margin-top: 20px;
+    color: black;
+    font-weight: 700;
+    padding: 5px;
+}
+
+@media (max-width:900px){
+    .nosotros{
+        margin-top: 10px;
+        margin-right: 60px;
+        margin-left: 70px;
+        margin-bottom: 10px;
+    }
+}
